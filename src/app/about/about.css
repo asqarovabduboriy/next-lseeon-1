@@ -1,0 +1,83 @@
+.bg_color {
+    background: rgb(244, 240, 248);
+    padding: 83px 87px;
+    display: flex;
+    align-items: center;
+    gap: 54px;
+    margin-top: 50px;
+}
+
+.bg_color h3 {
+    color: rgb(35, 37, 54);
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.bg_color h2 {
+    width: 481px;
+    color: rgb(35, 37, 54);
+    font-family: "Sen";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -1px;
+    text-align: left;
+    margin: 24px 0 16px;
+}
+
+.bg_color p {
+    color: rgb(109, 110, 118);
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 516px;
+}
+
+.title_content h3 {
+    color: rgb(35, 37, 54);
+    font-family: "Sen";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.title_content h4 {
+    width: 519px;
+    color: rgb(35, 37, 54);
+    font-family: "Sen";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+margin-bottom: 16px;
+}
+
+.title_content p {
+color: rgb(35, 37, 54);
+font-family: "Inter";
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+width: 519px;
+}
+
+.flex_element{
+    margin-top: 122px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
